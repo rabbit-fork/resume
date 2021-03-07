@@ -29,7 +29,7 @@ export const dataEN = {
   },
   repo: {
     label: 'Other Ver',
-    link: 'https://github.com/seognil/resume',
+    link: 'https://github.com/HuanBaby1314/resume',
   },
   ...parseMd(fileEN),
 };
@@ -44,14 +44,14 @@ const outputZH = path.resolve(root, './src/data/data-zh.json');
 export const dataZH = {
   time: new Date().toString(),
   meta: {
-    author: 'Chen LIN',
+    author: '宦兴安',
     keywords: '简历, 前端, javascript, typescript, 开发, 工程师',
-    subject: 'Chen LIN 的简历',
+    subject: '宦兴安 的简历',
     title: '简历',
   },
   repo: {
     label: '其他版本',
-    link: 'https://github.com/seognil/resume',
+    link: 'https://github.com/HuanBaby1314/resume',
   },
   ...parseMd(fileZH),
 };

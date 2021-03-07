@@ -1,26 +1,26 @@
-# Chris Lin
+# Jack Huan
 
 **Front-end Developer**
 
 - Shanghai, China
-- (+86) 175-2164-3403
-- [seognil@gmail.com](mailto:seognil@gmail.com)
-- <https://github.com/seognil>
-- <https://fe.rualc.com/>
+- (+86) 177-1931-3010
+- [huanxingan1314@163.com](mailto:huanxingan1314@163.com)
+- <https://github.com/HuanBaby1314>
+- <https://www.jianshu.com/u/259b7db6cc20>
 
 <!-- h2 -->
 
 ## Education
 
-**Bachelor of Engineering (B.Eng.) in Computer Science**  
-Shanghai Institute of Technology
-Shanghai, China -- Sep 2011 - Jun 2015
+**Bachelor of Engineering (B.Eng.) in Soft Engineering**  
+SuZhou University
+AnHui, China -- Sep 2014 - Jun 2018
 
 <!-- h2 -->
 
 ## Skills
 
-- Languages: JavaScript (4+ years), TypeScript (1+ years), HTML, CSS
+- Languages: JavaScript (3+ years), TypeScript (1+ years), HTML, CSS
 - Designs: FP, FRP, OOP, MVVM, TDD, GoF
 - Stacks: React, Redux, RxJS, Ramda, TailwindCSS, Styled-JSX, Node.js, Webpack, Jest, etc.
 - Platforms: VS Code, GitHub, Npm, Aliyun, Vercel

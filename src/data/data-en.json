@@ -1,5 +1,5 @@
 {
-  "time": "Sun Aug 02 2020 20:04:35 GMT+0800 (China Standard Time)",
+  "time": "Sun Mar 07 2021 20:27:44 GMT+0800 (GMT+08:00)",
   "meta": {
     "author": "Chris Lin",
     "keywords": "resume, front-end, javascript, typescript, developer, engineer",
@@ -8,32 +8,32 @@
   },
   "repo": {
     "label": "Other Ver",
-    "link": "https://github.com/seognil/resume"
+    "link": "https://github.com/HuanBaby1314/resume"
   },
   "header": {
-    "name": "Chris Lin",
+    "name": "Jack Huan",
     "role": "Front-end Developer",
     "contacts": [
       "Shanghai, China",
-      "(+86) 175-2164-3403",
-      "[seognil@gmail.com](mailto:seognil@gmail.com)",
-      "<https://github.com/seognil>",
-      "<https://fe.rualc.com/>"
+      "(+86) 177-1931-3010",
+      "[huanxingan1314@163.com](mailto:huanxingan1314@163.com)",
+      "<https://github.com/HuanBaby1314>",
+      "<https://www.jianshu.com/u/259b7db6cc20>"
     ]
   },
   "edu": {
     "title": "Education",
-    "degree": "Bachelor of Engineering (B.Eng.) in Computer Science",
-    "college": "Shanghai Institute of Technology",
-    "city": "Shanghai, China",
-    "date": "Sep 2011 - Jun 2015"
+    "degree": "Bachelor of Engineering (B.Eng.) in Soft Engineering",
+    "college": "SuZhou University",
+    "city": "AnHui, China",
+    "date": "Sep 2014 - Jun 2018"
   },
   "skills": {
     "title": "Skills",
     "skills": [
       {
         "label": "Languages",
-        "list": "JavaScript (4+ years), TypeScript (1+ years), HTML, CSS"
+        "list": "JavaScript (3+ years), TypeScript (1+ years), HTML, CSS"
       },
       {
         "label": "Designs",

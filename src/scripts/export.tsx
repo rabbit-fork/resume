@@ -20,6 +20,6 @@ ReactPDF.renderToFile(<ResumeContentEn />, distEN);
 
 // * ---------------- render zh
 
-const distZH = path.resolve(process.cwd(), './resume/resume-zh.pdf');
+const distZH = path.resolve(process.cwd(), './resume/huan-resume-zh.pdf');
 console.log('export:', distZH);
 ReactPDF.renderToFile(<ResumeContentZh />, distZH);

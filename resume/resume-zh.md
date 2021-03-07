@@ -1,30 +1,31 @@
-# Chen LIN
+# 宦兴安
 
 **前端工程师**
 
 - 中国 上海
-- (+86) 175-2164-3403
-- [seognil@gmail.com](mailto:seognil@gmail.com)
-- <https://github.com/seognil>
-- <https://fe.rualc.com/>
+- (+86) 177-1931-3010
+- [huanxingan1314@163.com](mailto:huanxingan1314@163.com)
+- <https://github.com/HuanBaby1314>
+- <https://gitee.com/huanxingan1314>
+- <https://www.jianshu.com/u/259b7db6cc20>
 
 <!-- h2 -->
 
 ## 教育背景
 
-**计算机科学与技术 工学学士**  
-上海应用技术大学  
-中国 上海 -- 2011 年 9 月 - 2015 年 6 月
+**软件工程 工学学士**  
+宿州学院  
+中国 安徽 -- 2014 年 9 月 - 2018 年 6 月
 
 <!-- h2 -->
 
 ## 技能
 
-- 语言：JavaScript (4+ 年), TypeScript (1+ 年), HTML, CSS
-- 代码设计：FP, FRP, OOP, MVVM, TDD, GoF
-- 技术栈：React, Redux, RxJS, Ramda, TailwindCSS, Styled-JSX, Node.js, Webpack, Jest …
-- 开发平台：VS Code, GitHub, Npm, Aliyun, Vercel
-- 其他：Git, Shell, Docker
+- 语言：JavaScript (3+ 年), TypeScript (1+ 年), HTML, CSS
+- 代码设计：FP, OOP, MVVM
+- 技术栈：Vue, Vuex, Vue-router, ElementUI, Axios, Uni-app, JQuery, Node.js, MongoDB, Redis, Webpack, Jest …
+- 开发平台：VS Code, GitHub, Gitee
+- 其他：Git, Shell, Bash, VBScript, Docker, Linux, Nginx, Nest, Koa2, Puppeteer, TianMap, Chrome Extensions, 微信小程序, H5, Leaflet, Canvas, SVG, Loadsh
 
 <!-- h2 -->
 
@@ -32,26 +33,28 @@
 
 <!-- h3 -->
 
-### 上海意派信息科技有限公司 (2017 年 8 月 - 至今)
+### 上海容智信息科技有限公司 (2020 年 4 月 - 至今)
 
 前端工程师 研发部门
 
-「意派 Epub360」是一家提供 页面在线交互设计制作工具 的互联网公司
+「容智」是一家提供 RPA 机器人流程自动化业务 的互联网公司
 
-- SSR 项目搭建和开发
-- 将 React/Redux 技术栈接入到一个 **40 万行代码**的 jQuery/Backbone 系统中
-- 架构改进，性能调优，编写工程化工具
-- 参与开发和维护多个项目
+- 项目搭建和开发
+- 开发政府部门定制化网站，结合公司 RPA 技术，解决政府部门难点和痛点
+- 参与开发和维护 30 多个项目
 
 <!-- h3 -->
 
-### 上海联廉冰鲜电子商务有限公司 (2016 年 9 月 - 2017 年 7 月)
+### 上海星共科技有限公司 (2018 年 10 月 - 2020 年 3 月)
 
-前端开发
+Node 全栈开发 研发部门
 
-「i 冻品」是一家运营 冻品交易平台 的电商公司
+「星共」是一家旅游签证办理和酒店预定业务 的电商公司
 
-- 开发电商平台客户端及后台管理界面
+- 开发电商平台后台管理界面已经 Chrome Extension 插件系统
+- 使用 jQuery 和 Node, Express, MongoDB 搭建后台 OMS 订单管理系统
+- 使用 React 开发材料清单模块，嵌入 H5 页面中供微信公众号使用
+- 使用 JQuery 和原生 Javascript 开发 Chrome 插件系统
 
 <!-- h2 -->
 
@@ -59,46 +62,64 @@
 
 <!-- h3 -->
 
-### epub360.com 官网 (2020 年 6 月 - 2020 年 7 月)
+### 惠企政策通 PC + 微信小程序 (2020 年 6 月 - 2020 年 12 月)
 
-- 用**前端 SSR 框架**重构该网站，开发了一些 UI 组件。（Next.js, React, Redux, TypeScript）
-- 借助 TailwindCSS 和 Styled-JSX **制定样式体系规范**，并编写通用的 CSS 规则。
-- 为前后端数据接口编写错误处理和类型校验的中间件。
-- 生产环境使用 Docker 和 PM2 构建，并部署到阿里云服务器。
-- 网站：[epub360.com](https://www.epub360.com/)
+- 本系统通过政策录入和解析，获取相应条款，企业通过填写少量信息，匹配条款，获取政策匹配度，智能推送申报提醒平台
+- vue + element + vuex + vue-router + flyjs 开发 PC 端
+- uniapp + vuex + vue-router + flyjs + flex 布局 开发小程序端
 
 <!-- h3 -->
 
-### Epub360 H5 编辑器 (2017 年 8 月 - 2020 年 5 月)
+### 华泰证券 网下打新平台 (2020 年 10 月 - 2020 年 11 月)
 
+- 本系统是公司与华泰证券合作的项目，公司参与开发部分模块。
 - 用 React、Redux 和 TypeScript 编写新的用户交互组件。
-- 重构打包系统，增加了对 ES6+/TS/React/Vue 的编译支持，并**使重编译时间从分钟降至数秒**。还提供了友好的编译信息 log。
-- 在项目早期，基于原有技术栈开发了大量功能。例如：**CSS 3D 组件**，移动端锁定横屏显示模式，API 数据加密中间件等等。（JavaScript, Backbone, Lodash, jQuery）
-- **团队技术分享：[「多系统设计」](https://github.com/seognil-study/multi-systems-demo)**
-- **团队技术分享：[「Webpack 从零开始」](https://github.com/seognil-study/webpack-playground)**
+- 使用 Umijs, Dva, AntDesign 开发商户证券基金网下打新平台
+- 使用 SpreadJS 开发在线文档工具
 
 <!-- h3 -->
 
-### 前端开发学习指南 (2019 年 7 月- 至今)
+### 铁塔聚合信息平台 (2020 年 11 月 - 至今 维护开发)
 
-- 这是一本我编写的 "Front-end Developer Handbook"，使用 Vuepress 搭建，并托管在 Vercel 上。
-- 写了一些文章和代码 Demo 来和我的朋友们分享前端开发的技术知识，并**在社区收获了一些 star**。
-- [[代码]](https://github.com/seognil/fe-foundation) [[网站]](https://fe.rualc.com/)
-
-<!-- h3 -->
-
-### Leetcode Solutions In TypeScript
-
-- 在本地用 TypeScript 刷题，自动编译成 JavaScript 文件用于提交。
-- 编写测试用例并通过 Jest 进行单元测试，**测试覆盖率高达 99%**。
-- 写了一个**使用 GitHub API** 的脚本，用来统计并在 repo 中展示我的答题进度。
-- 目前 Leetcode 记录的总答题进度为 **169/1537**。
-- [[代码]](https://github.com/seognil-study/leetcode)
+- 本系统是聚合新闻信息平台，有 Web、Admin、公众号 H5 多端界面
+- 使用 Vue + Typescript 开发
+- 使用 RPA 技术抓取百度上新闻信息数据，转化为手机阅读模式，插入公众号 H5 页面中
+- 使用 chrome extensions 保存网页新闻
 
 <!-- h3 -->
 
-### 一个名为 'type-done' 的 NPM 包
+### 资源与土地管理局/城管局项目 (2020 年 12 月 - 至今)
 
-- 写了一个小工具，用来为项目一键安装缺失的 TypeScript 类型声明库。
-- 基于 TypeScript 和 Jest 开发，通过 Rollup 打包。通过一个名为 release-it 的工具**发布到了 npm 上**。
-- [[代码]](https://github.com/seognil-lab/type-done) [[NPM]](https://www.npmjs.com/package/type-done)
+- 使用 Vue + Typescript 开发
+- 接入 TianMap + leaflet 显示区域信息
+- 使用 ECharts 绘制图表仪表盘
+- 使用机器学习技术识别违章违规，前端使用 SVG 绘制区域和图形
+
+<!-- h3 -->
+
+### OMS 订单管理系统
+
+- 使用 jQury + flex + bootsrap 开发前端页面
+- 使用 Node + Express + MongoDB + Redis 开发后端服务
+- 使用 forever 部署服务在 CentOS 系统上
+- 使用 puppeteer 制作 html to pdf/png/jpg 工具，解析 pdf 生成 html 页面
+- 搭建邮件服务器，收发电子邮件并解析
+
+<!-- h3 -->
+
+## 关于读书
+
+- 《Javascript 权威指南》 第 6 版 2019 年整本阅读完毕
+- 《Javascript 高级程序设计》 第 4 版 2020 年整本阅读完毕
+- 《CSS 世界》 2021 年正在阅读
+- 后期计划阅读《ecma262》《css 选择器世界》《算法导论》...
+
+<!-- h3 -->
+
+## 自我评价
+
+- 有家庭，有责任心
+- 年轻有活力，有上进心，爱学习，能吃苦，能加班，有毅力
+- 项目经历丰富，技术栈宽泛，解决问题能力强
+- 因为热爱编程，所以一往无前，渴望遇到一个优秀的团队
+- 我坚定的信念: **Any application that can be written in JavaScript, willeventually be written in JavaScript.**

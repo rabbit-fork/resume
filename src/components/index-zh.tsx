@@ -6,6 +6,7 @@ import { Skills } from './layouts/skills';
 import { Edu } from './layouts/edu';
 import { Works } from './layouts/works';
 import { Projs } from './layouts/projs';
+import { Reading } from './layouts/reading';
 
 import { Provider } from 'react-redux';
 import { createMyStore } from '#/utils/make-store';
@@ -27,6 +28,7 @@ export const ResumeContentZh: React.FC = () => (
       <Skills {...data.skills} />
       <Works {...data.works} />
       <Projs {...data.projs} />
+      <Reading {...data.projs} />
     </Layout>
   </Provider>
 );
